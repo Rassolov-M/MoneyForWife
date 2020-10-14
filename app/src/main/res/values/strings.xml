@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Money for wife</string>
+    <string name="text_view_who_money">Сколько денег должен муж?</string>
+    <string name="giveItBack">Взять</string>
+    <string name="restart">Ещё раз</string>
+    <string-array name="currency">
+        <item>₽</item>
+        <item>$</item>
+        <item>€</item>
+    </string-array>
+</resources>

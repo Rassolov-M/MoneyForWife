@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Money to wife</string>
+    <string name="text_view_who_money">How much money does the husband owe?</string>
+    <string name="giveItBack">Take</string>
+</resources>
